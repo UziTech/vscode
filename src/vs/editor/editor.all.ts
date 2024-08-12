@@ -40,6 +40,7 @@ import 'vs/editor/contrib/linesOperations/browser/linesOperations';
 import 'vs/editor/contrib/linkedEditing/browser/linkedEditing';
 import 'vs/editor/contrib/links/browser/links';
 import 'vs/editor/contrib/longLinesHelper/browser/longLinesHelper';
+import 'vs/editor/contrib/middleScroll/browser/middleScroll';
 import 'vs/editor/contrib/multicursor/browser/multicursor';
 import 'vs/editor/contrib/inlineEdit/browser/inlineEdit.contribution';
 import 'vs/editor/contrib/inlineEdits/browser/inlineEdits.contribution';
